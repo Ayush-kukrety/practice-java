@@ -1,0 +1,1 @@
+I have developed a Java-based project that challenges users to guess a randomly generated number. The application assigns points based on the accuracy of the guesses, making it both an engaging and rewarding experience. This project not only demonstrates my proficiency in Java but also reflects my ability to implement logic and create interactive applications.
